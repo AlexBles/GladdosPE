@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "Hey_Gladdose",
+  "wake_word": "hey_gladdose",
   "author": "Alex Bles",
   "model": "Hey_Gladdose.tflite",
   "trained_languages": ["en"],
